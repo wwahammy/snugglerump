@@ -10,5 +10,9 @@
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.0",
+    "sqlite3": "^5.1.7"
   }
 }
